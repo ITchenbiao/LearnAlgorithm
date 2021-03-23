@@ -9,5 +9,9 @@ Learn algorithm every day.
 </p>
 <p><strong>2021-03-20</strong><strong>problem：所有奇数长度子数组的和。</strong>给你一个正整数数组 arr ，请你计算所有可能的奇数长度子数组的和
 </p>
-
-    
+<p><strong>2021-03-21</strong><strong>problem：主要元素。</strong>数组中占比超过一半的元素称之为主要元素。给定一个整数数组，找到它的主要元素。若没有，返回-1
+</p>
+<p><strong>2021-03-22</strong><strong>problem：两数之和。</strong>给定一个整数数组 nums 和一个整数目标值 target，请你在该数组中找出 和为目标值 的那 两个 整数，并返回它们的数组下标。
+</p>
+<p><strong>2021-03-23</strong><strong>problem：合并两个有序数组。</strong>给你两个有序整数数组 nums1 和 nums2，请你将 nums2 合并到 nums1 中，使 nums1 成为一个有序数组。
+</p>    
