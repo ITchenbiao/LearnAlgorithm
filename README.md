@@ -15,3 +15,5 @@ Learn algorithm every day.
 </p>
 <p><strong>2021-03-23 </strong><em>problem：合并两个有序数组。</em>(给你两个有序整数数组 nums1 和 nums2，请你将 nums2 合并到 nums1 中，使 nums1 成为一个有序数组。)
 </p>    
+<p><strong>2021-03-24 </strong><em>problem：一周中的第几天。</em>(给你一个日期，请你设计一个算法来判断它是对应一周中的哪一天。)
+</p>
