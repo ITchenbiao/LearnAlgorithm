@@ -32,4 +32,6 @@ Learn algorithm every day.
 <p><strong>2021-03-31 </strong><em>problem：计算器。</em>(给定一个包含正整数、加(+)、减(-)、乘(*)、除(/)的算数表达式(括号除外)，计算其结果。)
 </p>
 <p><strong>2021-04-01 </strong><em>problem：反转字符串。</em>(编写一个函数，其作用是将输入的字符串反转过来。输入字符串以字符数组 char[] 的形式给出。)
+</p> 
+<p><strong>2021-04-02 </strong><em>problem：最大重复子字符串。</em>(给你一个字符串 sequence ，如果字符串 word 连续重复 k 次形成的字符串是 sequence 的一个子字符串，那么单词 word 的 重复值为 k 。单词 word 的 最大重复值 是单词 word 在 sequence 中最大的重复值。如果 word 不是 sequence 的子串，那么重复值 k 为 0 。)
 </p>
