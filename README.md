@@ -35,3 +35,11 @@ Learn algorithm every day.
 </p> 
 <p><strong>2021-04-02 </strong><em>problem：最大重复子字符串。</em>(给你一个字符串 sequence ，如果字符串 word 连续重复 k 次形成的字符串是 sequence 的一个子字符串，那么单词 word 的 重复值为 k 。单词 word 的 最大重复值 是单词 word 在 sequence 中最大的重复值。如果 word 不是 sequence 的子串，那么重复值 k 为 0 。)
 </p>
+<p><strong>2021-04-03 </strong><em>problem：最长公共子序列。</em>(一个字符串的 子序列 是指这样一个新的字符串：它是由原字符串在不改变字符的相对顺序的情况下删除某些字符（也可以不删除任何字符）后组成的新字符串。)
+</p>
+<p><strong>2021-04-04 </strong><em>problem：转置矩阵。</em>(给你一个二维整数数组 matrix， 返回 matrix 的 转置矩阵 。)
+</p>
+<p><strong>2021-04-05 </strong><em>problem：两个相同字符之间的最长子字符串。</em>(给你一个字符串 s，请你返回 两个相同字符之间的最长子字符串的长度 ，计算长度时不含这两个字符。如果不存在这样的子字符串，返回 -1 。)
+</p>
+<p><strong>2021-04-06 </strong><em>problem：仅仅反转字母。</em>(给定一个字符串 S，返回 “反转后的” 字符串，其中不是字母的字符都保留在原地，而所有字母的位置发生反转。)
+</p>
