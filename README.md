@@ -47,3 +47,5 @@ Learn algorithm every day.
 </p>
 <p><strong>2021-04-08 </strong><em>problem：最长回文子串（抖音面试题：给你一个字符串 s，找到 s 中最长的回文子串。）。</em>
 </p>
+<p><strong>2021-04-09 </strong><em>problem：实现 strStr()（给定一个 haystack 字符串和一个 needle 字符串，在 haystack 字符串中找出 needle 字符串出现的第一个位置 (从0开始)。如果不存在，则返回  -1。）。</em>
+</p>
