@@ -49,3 +49,7 @@ Learn algorithm every day.
 </p>
 <p><strong>2021-04-09 </strong><em>problem：实现 strStr()（给定一个 haystack 字符串和一个 needle 字符串，在 haystack 字符串中找出 needle 字符串出现的第一个位置 (从0开始)。如果不存在，则返回  -1。）。</em>
 </p>
+<p><strong>2021-04-10 </strong><em>problem：删除有序数组中的重复项（给你一个有序数组 nums ，请你 原地 删除重复出现的元素，使每个元素 只出现一次 ，返回删除后数组的新长度）。</em>
+</p>
+<p><strong>2021-04-11 </strong><em>problem：移除元素（给你一个数组 nums 和一个值 val，你需要 原地 移除所有数值等于 val 的元素，并返回移除后数组的新长度。）。</em>
+</p>
