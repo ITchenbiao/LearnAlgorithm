@@ -53,3 +53,5 @@ Learn algorithm every day.
 </p>
 <p><strong>2021-04-11 </strong><em>problem：移除元素（给你一个数组 nums 和一个值 val，你需要 原地 移除所有数值等于 val 的元素，并返回移除后数组的新长度。）。</em>
 </p>
+<p><strong>2021-04-12 </strong><em>problem：多数元素（给定一个大小为 n 的数组，找到其中的多数元素。多数元素是指在数组中出现次数 大于 ⌊ n/2 ⌋ 的元素。）。</em>
+</p>

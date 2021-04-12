@@ -16,7 +16,7 @@
  * 2021-04-11
  */
 
- var removeElement = function(nums, val) {
+var removeElement = function(nums, val) {
     let ans = nums.length;
     for (let i = 0; i < ans;) {
         if (nums[i] == val) {
