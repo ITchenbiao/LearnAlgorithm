@@ -15,28 +15,12 @@
  * 2021-04-14
  */
 var maxProfit = function(prices) {
-    /*
-            双层遍历 O(n^2) 
-            a 外层遍历i 0~prices.length - 1
-            b 内层遍历j i + 1~prices.length - 1
-            c 找出大于当前项目 prices[i] 并 卖出 并 更新最大值
-            d 输出结果
-     */
-    
-    if (!prices || !prices.length) return 0
-
-    const len = prices.length
-    let max = 0, cur = 0, next = 0
-
-    for (let i = 0; i < len; i++) {
-        cur = prices[i]
-        for (let j = i + 1; j < len; j++) {
-            next = prices[j]
-            if (next > cur) {
-                max = Math.max(max, next - cur)
-            }
-        }
+    let n = prices.length
+    let profit_out = 0
+    let profit_in = -prices[0]
+    for (let i = 1; i < n; i++) {
+        profit_out = Math.max(profit_out, profit_in + prices[i])
+        profit_in = Math.max(profit_in,  -prices[i])
     }
-
-    return max
+    return profit_out
 }
