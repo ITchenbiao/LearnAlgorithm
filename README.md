@@ -61,3 +61,5 @@ Learn algorithm every day.
 </p>
 <p><strong>2021-04-15 </strong><em>problem：请用JS实现Ajax并发请求控制（字节跳动面试题）。</em>
 </p>
+<p><strong>2021-04-16 </strong><em>problem：编写函数获得对象中的值666，必须使用到 str = 'a.b.c'。(滴滴面试题)。</em>
+</p>
