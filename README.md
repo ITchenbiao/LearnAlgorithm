@@ -63,3 +63,11 @@ Learn algorithm every day.
 </p>
 <p><strong>2021-04-16 </strong><em>problem：编写函数获得对象中的值666，必须使用到 str = 'a.b.c'。(滴滴面试题)。</em>
 </p>
+<p><strong>2021-04-17 </strong><em>problem：数据类型判断。</em>
+</p>
+<p><strong>2021-04-18 </strong><em>problem：数组扁平化。</em>
+</p>
+<p><strong>2021-04-19 </strong><em>problem：解析 URL 参数为对象。</em>
+</p>
+<p><strong>2021-04-20 </strong><em>problem：字符串解码(腾讯面试题)。</em>
+</p>
