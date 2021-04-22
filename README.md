@@ -71,3 +71,7 @@ Learn algorithm every day.
 </p>
 <p><strong>2021-04-20 </strong><em>problem：字符串解码(腾讯面试题)。</em>
 </p>
+<p><strong>2021-04-21 </strong><em>problem：判断数据类型的5种方法(面试题)。</em>
+</p>
+<p><strong>2021-04-22 </strong><em>problem：如何实现一个LazyMan(微信面试题)。</em>
+</p>
