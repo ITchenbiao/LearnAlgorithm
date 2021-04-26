@@ -75,3 +75,11 @@ Learn algorithm every day.
 </p>
 <p><strong>2021-04-22 </strong><em>problem：如何实现一个LazyMan(微信面试题)。</em>
 </p>
+<p><strong>2021-04-23 </strong><em>problem：JavaScript深入之call和apply的模拟实现。</em>
+</p>
+<p><strong>2021-04-24 </strong><em>problem：JavaScript深入之自己实现new。</em>
+</p>
+<p><strong>2021-04-25 </strong><em>problem：JavaScript深入之函数的柯里化。</em>
+</p>
+<p><strong>2021-04-26 </strong><em>problem：JavaScript深入之冒泡排序。</em>
+</p>
