@@ -14,34 +14,34 @@
  * 2021-04-16
  */
 // method 1
- let obj = {
-    a:{
-        b:{
-            c:666
+let obj = {
+    a: {
+        b: {
+            c: 666
         }
     }
 }
- 
+
 var str = 'a.b.c';
-const getData=(obj,str)=>{
- str.split('.').forEach(element =>{ 
-     obj= obj[element]
-})    
-return obj;
+const getData = (obj, str) => {
+    str.split('.').forEach(element => {
+        obj = obj[element]
+    })
+    return obj;
 }
 
 // method 2
 let obj = {
-    a:{
-        b:{
-            c:666
+    a: {
+        b: {
+            c: 666
         }
     }
 }
- 
+
 var str = 'a.b.c';
-const getData = ()=>{
-  var newArr =  str.split('.').reduce((o,s)=>{ return  o[s]},obj)
+const getData = () => {
+    var newArr = str.split('.').reduce((o, s) => { return o[s] }, obj)
     return newArr
 }
 
